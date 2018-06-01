@@ -1,0 +1,1965 @@
+{
+	"data": [
+		{
+			"min": 0,
+			"id": "153",
+			"max": 1,
+			"location": [
+				-73.566921,
+				45.505086
+			],
+			"name": "8D OPS 03",
+			"average": 0
+		}, {
+			"min": 0,
+			"id": "207",
+			"max": 24,
+			"location": [
+				-71.150226,
+				42.35484
+			],
+			"name": "Faneuil St at Market St",
+			"average": 3
+		}, {
+			"min": 0,
+			"id": "1",
+			"max": 13,
+			"location": [
+				-71.075978,
+				42.387151
+			],
+			"name": "18 Dorrance Warehouse",
+			"average": 5
+		}, {
+			"min": 0,
+			"id": "203",
+			"max": 32,
+			"location": [
+				-71.0729,
+				42.309572
+			],
+			"name": "Columbia Rd at Ceylon St",
+			"average": 13
+		}, {
+			"min": 0,
+			"id": "181",
+			"max": 108,
+			"location": [
+				-71.13426981,
+				42.38165061
+			],
+			"name": "Huron Ave. At Vassal Lane",
+			"average": 16
+		}, {
+			"min": 0,
+			"id": "209",
+			"max": 52,
+			"location": [
+				-71.027448,
+				42.379772
+			],
+			"name": "Chelsea St at Saratoga St",
+			"average": 18
+		}, {
+			"min": 0,
+			"id": "210",
+			"max": 73,
+			"location": [
+				-71.01612031,
+				42.38337842
+			],
+			"name": "Bennington St at Byron St",
+			"average": 21
+		}, {
+			"min": 0,
+			"id": "204",
+			"max": 54,
+			"location": [
+				-71.083235,
+				42.324081
+			],
+			"name": "Walnut Ave at Warren St",
+			"average": 22
+		}, {
+			"min": 0,
+			"id": "162",
+			"max": 62,
+			"location": [
+				-71.092225,
+				42.309796
+			],
+			"name": "Franklin Park - Seaver St at Humbolt Ave",
+			"average": 23
+		}, {
+			"min": 0,
+			"id": "202",
+			"max": 47,
+			"location": [
+				-71.080952,
+				42.30791
+			],
+			"name": "Grove Hall Library - 41 Geneva Ave",
+			"average": 23
+		}, {
+			"min": 0,
+			"id": "199",
+			"max": 97,
+			"location": [
+				-71.06978148,
+				42.31869734
+			],
+			"name": "Upham's Corner T Stop - Magnolia St at Dudley St",
+			"average": 27
+		}, {
+			"min": 0,
+			"id": "216",
+			"max": 89,
+			"location": [
+				-71.03024304,
+				42.38240378
+			],
+			"name": "Glendon St at Condor St",
+			"average": 27
+		}, {
+			"min": 0,
+			"id": "222",
+			"max": 197,
+			"location": [
+				-71.062256,
+				42.343749
+			],
+			"name": "Troy Boston",
+			"average": 30
+		}, {
+			"min": 0,
+			"id": "170",
+			"max": 83,
+			"location": [
+				-71.085347,
+				42.303469
+			],
+			"name": "Franklin Park Zoo",
+			"average": 31
+		}, {
+			"min": 0,
+			"id": "208",
+			"max": 116,
+			"location": [
+				-71.16636693,
+				42.35048162
+			],
+			"name": "Oak Square YMCA",
+			"average": 35
+		}, {
+			"min": 0,
+			"id": "215",
+			"max": 84,
+			"location": [
+				-71.0442616,
+				42.37078455
+			],
+			"name": "The Eddy at New Street",
+			"average": 36
+		}, {
+			"min": 0,
+			"id": "219",
+			"max": 99,
+			"location": [
+				-71.03808671,
+				42.37430132
+			],
+			"name": "Central Square East Boston - Porter Street at London Street",
+			"average": 38
+		}, {
+			"min": 0,
+			"id": "205",
+			"max": 81,
+			"location": [
+				-71.06502056,
+				42.30791913
+			],
+			"name": "Bowdoin St at Quincy St",
+			"average": 40
+		}, {
+			"min": 0,
+			"id": "197",
+			"max": 75,
+			"location": [
+				-71.091822,
+				42.321678
+			],
+			"name": "MLK Blvd at Washington St",
+			"average": 40
+		}, {
+			"min": 0,
+			"id": "217",
+			"max": 143,
+			"location": [
+				-71.00621223,
+				42.38673179
+			],
+			"name": "Orient Heights T Stop - Bennington St at Saratoga St",
+			"average": 50
+		}, {
+			"min": 0,
+			"id": "201",
+			"max": 106,
+			"location": [
+				-71.091955,
+				42.316873
+			],
+			"name": "Walnut Ave at Crawford St",
+			"average": 51
+		}, {
+			"min": 0,
+			"id": "213",
+			"max": 118,
+			"location": [
+				-71.03942692,
+				42.36956287
+			],
+			"name": "EBNHC - 20 Maverick Sq",
+			"average": 51
+		}, {
+			"min": 0,
+			"id": "173",
+			"max": 105,
+			"location": [
+				-71.053927,
+				42.310599
+			],
+			"name": "Savin Hill MBTA Station",
+			"average": 54
+		}, {
+			"min": 0,
+			"id": "92",
+			"max": 168,
+			"location": [
+				-71.0405121,
+				42.3139036
+			],
+			"name": "UMass Boston Integrated Sciences Complex",
+			"average": 63
+		}, {
+			"min": 0,
+			"id": "130",
+			"max": 126,
+			"location": [
+				-71.06403709,
+				42.31756858
+			],
+			"name": "Upham's Corner - Columbia Rd",
+			"average": 63
+		}, {
+			"min": 0,
+			"id": "196",
+			"max": 131,
+			"location": [
+				-71.082254,
+				42.317963
+			],
+			"name": "Roxbury YMCA",
+			"average": 74
+		}, {
+			"min": 0,
+			"id": "157",
+			"max": 451,
+			"location": [
+				-71.04817357,
+				42.35317809
+			],
+			"name": "Seaport Blvd at Sleeper St",
+			"average": 79
+		}, {
+			"min": 0,
+			"id": "224",
+			"max": 287,
+			"location": [
+				-71.14347895,
+				42.38267828
+			],
+			"name": "Fresh Pond Reservation",
+			"average": 84
+		}, {
+			"min": 0,
+			"id": "112",
+			"max": 176,
+			"location": [
+				-71.132446,
+				42.406302
+			],
+			"name": "Clarendon Hill at Broadway",
+			"average": 84
+		}, {
+			"min": 0,
+			"id": "211",
+			"max": 197,
+			"location": [
+				-71.03625655,
+				42.36543155
+			],
+			"name": "Piers Park",
+			"average": 85
+		}, {
+			"min": 0,
+			"id": "214",
+			"max": 233,
+			"location": [
+				-71.031304,
+				42.375339
+			],
+			"name": "Airport T Stop - Bremen St at Brooks St",
+			"average": 84
+		}, {
+			"min": 0,
+			"id": "128",
+			"max": 211,
+			"location": [
+				-71.06198,
+				42.320561
+			],
+			"name": "E Cottage St at Columbia Rd",
+			"average": 90
+		}, {
+			"min": 0,
+			"id": "126",
+			"max": 189,
+			"location": [
+				-71.098634,
+				42.315692
+			],
+			"name": "Egleston Square at Columbus Ave",
+			"average": 90
+		}, {
+			"min": 0,
+			"id": "138",
+			"max": 235,
+			"location": [
+				-71.066498,
+				42.326599
+			],
+			"name": "Mass Ave at Newmarket Square",
+			"average": 94
+		}, {
+			"min": 0,
+			"id": "212",
+			"max": 233,
+			"location": [
+				-71.03977829,
+				42.36884408
+			],
+			"name": "Maverick Square - Lewis Mall",
+			"average": 100
+		}, {
+			"min": 0,
+			"id": "174",
+			"max": 230,
+			"location": [
+				-71.16041064,
+				42.34900494
+			],
+			"name": "Washington St at Brock St",
+			"average": 105
+		}, {
+			"min": 0,
+			"id": "167",
+			"max": 257,
+			"location": [
+				-71.056664,
+				42.317642
+			],
+			"name": "Ryan Playground - Dorchester Ave at Harbor View St",
+			"average": 118
+		}, {
+			"min": 0,
+			"id": "200",
+			"max": 241,
+			"location": [
+				-71.08126938,
+				42.33282816
+			],
+			"name": "Washington St at Melnea Cass Blvd",
+			"average": 123
+		}, {
+			"min": 0,
+			"id": "228",
+			"max": 600,
+			"location": [
+				-71.08043551,
+				42.36161932
+			],
+			"name": "One Memorial Drive",
+			"average": 124
+		}, {
+			"min": 0,
+			"id": "93",
+			"max": 278,
+			"location": [
+				-71.051122,
+				42.320494
+			],
+			"name": "JFK / UMASS at MBTA Station",
+			"average": 135
+		}, {
+			"min": 0,
+			"id": "111",
+			"max": 256,
+			"location": [
+				-71.123413,
+				42.40449
+			],
+			"name": "Packard Ave / Powderhouse Blvd",
+			"average": 138
+		}, {
+			"min": 0,
+			"id": "56",
+			"max": 249,
+			"location": [
+				-71.084198,
+				42.328654
+			],
+			"name": "Dudley Square",
+			"average": 149
+		}, {
+			"min": 0,
+			"id": "194",
+			"max": 303,
+			"location": [
+				-71.0782814,
+				42.38614141
+			],
+			"name": "Broadway St at Mt Pleasant St",
+			"average": 151
+		}, {
+			"min": 36,
+			"id": "183",
+			"max": 297,
+			"location": [
+				-71.14260614,
+				42.39558846
+			],
+			"name": "Alewife MBTA at Steel Place",
+			"average": 153
+		}, {
+			"min": 0,
+			"id": "37",
+			"max": 339,
+			"location": [
+				-71.147782,
+				42.357402
+			],
+			"name": "New Balance - 20 Guest St.",
+			"average": 162
+		}, {
+			"min": 30,
+			"id": "142",
+			"max": 336,
+			"location": [
+				-71.139459,
+				42.396105
+			],
+			"name": "Alewife Station at Russell Field",
+			"average": 168
+		}, {
+			"min": 0,
+			"id": "159",
+			"max": 338,
+			"location": [
+				-71.11089706,
+				42.3279727
+			],
+			"name": "Heath St at South Huntington",
+			"average": 169
+		}, {
+			"min": 0,
+			"id": "129",
+			"max": 352,
+			"location": [
+				-71.056605,
+				42.377022
+			],
+			"name": "Hayes Square - Vine St at Moulton St",
+			"average": 171
+		}, {
+			"min": 107,
+			"id": "145",
+			"max": 248,
+			"location": [
+				-71.129042,
+				42.392766
+			],
+			"name": "Rindge Avenue - O'Neill Library",
+			"average": 180
+		}, {
+			"min": 0,
+			"id": "137",
+			"max": 393,
+			"location": [
+				-71.107818,
+				42.398365
+			],
+			"name": "Magoun Square at Trum Field",
+			"average": 182
+		}, {
+			"min": 0,
+			"id": "102",
+			"max": 349,
+			"location": [
+				-71.116772,
+				42.400877
+			],
+			"name": "Powder House Circle - Nathan Tufts Park",
+			"average": 186
+		}, {
+			"min": 0,
+			"id": "124",
+			"max": 340,
+			"location": [
+				-71.11543,
+				42.309054
+			],
+			"name": "Curtis Hall at South Street",
+			"average": 189
+		}, {
+			"min": 0,
+			"id": "175",
+			"max": 366,
+			"location": [
+				-71.15027189,
+				42.34894857
+			],
+			"name": "Brighton Center",
+			"average": 197
+		}, {
+			"min": 0,
+			"id": "77",
+			"max": 387,
+			"location": [
+				-71.09812,
+				42.386844
+			],
+			"name": "Somerville City Hall",
+			"average": 202
+		}, {
+			"min": 0,
+			"id": "15",
+			"max": 457,
+			"location": [
+				-71.13802,
+				42.361667
+			],
+			"name": "Harvard Real Estate - Brighton Mills - 370 Western Ave",
+			"average": 206
+		}, {
+			"min": 0,
+			"id": "114",
+			"max": 517,
+			"location": [
+				-71.126908,
+				42.402763
+			],
+			"name": "Teele Square at 239 Holland St",
+			"average": 214
+		}, {
+			"min": 0,
+			"id": "103",
+			"max": 534,
+			"location": [
+				-71.128374,
+				42.346563
+			],
+			"name": "JFK Crossing at Harvard St. / Thorndike St.",
+			"average": 217
+		}, {
+			"min": 66,
+			"id": "140",
+			"max": 370,
+			"location": [
+				-71.132788,
+				42.388966
+			],
+			"name": "Danehy Park",
+			"average": 219
+		}, {
+			"min": 0,
+			"id": "171",
+			"max": 398,
+			"location": [
+				-71.06905997,
+				42.37408991
+			],
+			"name": "Bunker Hill Community College",
+			"average": 224
+		}, {
+			"min": 0,
+			"id": "221",
+			"max": 617,
+			"location": [
+				-71.11305356,
+				42.37250865
+			],
+			"name": "Verizon Innovation Hub 10 Ware Street",
+			"average": 229
+		}, {
+			"min": 0,
+			"id": "82",
+			"max": 523,
+			"location": [
+				-71.13493,
+				42.339335
+			],
+			"name": "Washington Square at Washington St. / Beacon St.",
+			"average": 231
+		}, {
+			"min": 0,
+			"id": "65",
+			"max": 454,
+			"location": [
+				-71.0441,
+				42.3475
+			],
+			"name": "Boston Convention & Exhibition Center",
+			"average": 233
+		}, {
+			"min": 72,
+			"id": "195",
+			"max": 494,
+			"location": [
+				-71.07202649,
+				42.3720597
+			],
+			"name": "Brian P. Murphy Staircase at Child Street",
+			"average": 242
+		}, {
+			"min": 0,
+			"id": "125",
+			"max": 445,
+			"location": [
+				-71.110833,
+				42.320998
+			],
+			"name": "Hyde Square - Barbara St at Centre St",
+			"average": 244
+		}, {
+			"min": 0,
+			"id": "225",
+			"max": 797,
+			"location": [
+				-71.09759867,
+				42.37119728
+			],
+			"name": "Cambridge Dept. of Public Works -147 Hampshire St.",
+			"average": 245
+		}, {
+			"min": 75,
+			"id": "180",
+			"max": 502,
+			"location": [
+				-71.13320231,
+				42.37478629
+			],
+			"name": "Mt Auburn",
+			"average": 246
+		}, {
+			"min": 0,
+			"id": "193",
+			"max": 534,
+			"location": [
+				-71.11658335,
+				42.33289074
+			],
+			"name": "Brookline Village - Station Street @ MBTA",
+			"average": 246
+		}, {
+			"min": 0,
+			"id": "226",
+			"max": 791,
+			"location": [
+				-71.12126246,
+				42.35154735
+			],
+			"name": "Commonwealth Ave At Babcock St",
+			"average": 248
+		}, {
+			"min": 0,
+			"id": "99",
+			"max": 458,
+			"location": [
+				-71.113341,
+				42.385582
+			],
+			"name": "Wilson Square",
+			"average": 250
+		}, {
+			"min": 0,
+			"id": "51",
+			"max": 478,
+			"location": [
+				-71.0790969,
+				42.3348756
+			],
+			"name": "Washington St. at Lenox St.",
+			"average": 255
+		}, {
+			"min": 0,
+			"id": "63",
+			"max": 503,
+			"location": [
+				-71.057054,
+				42.344023
+			],
+			"name": "Dorchester Ave. at Gillette Park",
+			"average": 262
+		}, {
+			"min": 0,
+			"id": "113",
+			"max": 586,
+			"location": [
+				-71.05701685,
+				42.33047365
+			],
+			"name": "Andrew T Stop - Dorchester Ave at Dexter St",
+			"average": 263
+		}, {
+			"min": 0,
+			"id": "182",
+			"max": 745,
+			"location": [
+				-71.07116282,
+				42.36769018
+			],
+			"name": "Museum of Science",
+			"average": 267
+		}, {
+			"min": 0,
+			"id": "169",
+			"max": 506,
+			"location": [
+				-71.068607,
+				42.378965
+			],
+			"name": "Edwards Playground - Main Street & Eden Street",
+			"average": 277
+		}, {
+			"min": 0,
+			"id": "29",
+			"max": 466,
+			"location": [
+				-71.124565,
+				42.363732
+			],
+			"name": "Innovation Lab - 125 Western Ave. at Batten Way",
+			"average": 279
+		}, {
+			"min": 0,
+			"id": "133",
+			"max": 483,
+			"location": [
+				-71.107341,
+				42.310579
+			],
+			"name": "Green St T",
+			"average": 283
+		}, {
+			"min": 114,
+			"id": "176",
+			"max": 499,
+			"location": [
+				-71.11901879,
+				42.38674802
+			],
+			"name": "Lesley University",
+			"average": 294
+		}, {
+			"min": 0,
+			"id": "122",
+			"max": 625,
+			"location": [
+				-71.100694,
+				42.345733
+			],
+			"name": "Burlington Ave at Brookline Ave",
+			"average": 294
+		}, {
+			"min": 0,
+			"id": "135",
+			"max": 540,
+			"location": [
+				-71.028664,
+				42.344827
+			],
+			"name": "ID Building East",
+			"average": 303
+		}, {
+			"min": 0,
+			"id": "146",
+			"max": 755,
+			"location": [
+				-71.023739,
+				42.336448
+			],
+			"name": "Day Boulevard",
+			"average": 333
+		}, {
+			"min": 0,
+			"id": "136",
+			"max": 678,
+			"location": [
+				-71.031614,
+				42.344796
+			],
+			"name": "ID Building West",
+			"average": 340
+		}, {
+			"min": 0,
+			"id": "131",
+			"max": 628,
+			"location": [
+				-71.10034391,
+				42.32285835
+			],
+			"name": "Jackson Square T at Centre St",
+			"average": 344
+		}, {
+			"min": 0,
+			"id": "7",
+			"max": 683,
+			"location": [
+				-71.04438901,
+				42.35328743
+			],
+			"name": "Fan Pier",
+			"average": 361
+		}, {
+			"min": 0,
+			"id": "160",
+			"max": 729,
+			"location": [
+				-71.096391,
+				42.337596
+			],
+			"name": "Wentworth Institute of Technology",
+			"average": 361
+		}, {
+			"min": 0,
+			"id": "8",
+			"max": 722,
+			"location": [
+				-71.137313,
+				42.353334
+			],
+			"name": "Union Square - Brighton Ave. at Cambridge St.",
+			"average": 372
+		}, {
+			"min": 0,
+			"id": "109",
+			"max": 785,
+			"location": [
+				-71.06454849,
+				42.36588482
+			],
+			"name": "TD Garden - West End Park",
+			"average": 373
+		}, {
+			"min": 0,
+			"id": "119",
+			"max": 778,
+			"location": [
+				-71.03877,
+				42.335741
+			],
+			"name": "South Boston Library - 646 East Broadway",
+			"average": 373
+		}, {
+			"min": 0,
+			"id": "3",
+			"max": 710,
+			"location": [
+				-71.100812,
+				42.340021
+			],
+			"name": "Colleges of the Fenway",
+			"average": 379
+		}, {
+			"min": 0,
+			"id": "163",
+			"max": 814,
+			"location": [
+				-71.044024,
+				42.344792
+			],
+			"name": "Lawn on D",
+			"average": 380
+		}, {
+			"min": 0,
+			"id": "150",
+			"max": 819,
+			"location": [
+				-71.052608,
+				42.344137
+			],
+			"name": "State Street at Channel Center",
+			"average": 400
+		}, {
+			"min": 0,
+			"id": "186",
+			"max": 861,
+			"location": [
+				-71.0376513,
+				42.34820322
+			],
+			"name": "Congress St and Northern Ave",
+			"average": 404
+		}, {
+			"min": 0,
+			"id": "31",
+			"max": 769,
+			"location": [
+				-71.041747,
+				42.348833
+			],
+			"name": "Seaport Hotel",
+			"average": 414
+		}, {
+			"min": 0,
+			"id": "85",
+			"max": 821,
+			"location": [
+				-71.048927,
+				42.378338
+			],
+			"name": "Spaulding Rehabilitation Hospital - Charlestown Navy Yard",
+			"average": 424
+		}, {
+			"min": 146,
+			"id": "118",
+			"max": 669,
+			"location": [
+				-71.130516,
+				42.397828
+			],
+			"name": "Linear Park - Mass. Ave. at Cameron Ave. ",
+			"average": 424
+		}, {
+			"min": 0,
+			"id": "71",
+			"max": 719,
+			"location": [
+				-71.107593,
+				42.383405
+			],
+			"name": "Conway Park - Somerville Avenue",
+			"average": 436
+		}, {
+			"min": 0,
+			"id": "94",
+			"max": 733,
+			"location": [
+				-71.064608,
+				42.375603
+			],
+			"name": "Charlestown - Main St at Austin St",
+			"average": 437
+		}, {
+			"min": 0,
+			"id": "27",
+			"max": 810,
+			"location": [
+				-71.095171,
+				42.331184
+			],
+			"name": "Roxbury Crossing Station",
+			"average": 459
+		}, {
+			"min": 0,
+			"id": "17",
+			"max": 890,
+			"location": [
+				-71.119233,
+				42.365064
+			],
+			"name": "Harvard University Housing - 111 Western Ave. at Soldiers Field Park ",
+			"average": 462
+		}, {
+			"min": 0,
+			"id": "121",
+			"max": 830,
+			"location": [
+				-71.045859,
+				42.335693
+			],
+			"name": "West Broadway at Dorchester St",
+			"average": 467
+		}, {
+			"min": 0,
+			"id": "134",
+			"max": 1022,
+			"location": [
+				-71.07655,
+				42.350413
+			],
+			"name": "Boylston St at Dartmouth St",
+			"average": 466
+		}, {
+			"min": 210,
+			"id": "104",
+			"max": 848,
+			"location": [
+				-71.125107,
+				42.380287
+			],
+			"name": "Harvard University Radcliffe Quadrangle at Shepard St / Garden St",
+			"average": 480
+		}, {
+			"min": 0,
+			"id": "161",
+			"max": 818,
+			"location": [
+				-71.0514432,
+				42.3391085
+			],
+			"name": "West Broadway at D Street",
+			"average": 485
+		}, {
+			"min": 0,
+			"id": "227",
+			"max": 1648,
+			"location": [
+				-71.10057592,
+				42.349496
+			],
+			"name": "Silber Way",
+			"average": 486
+		}, {
+			"min": 0,
+			"id": "66",
+			"max": 963,
+			"location": [
+				-71.13394663,
+				42.34852015
+			],
+			"name": "Allston Green District - Griggs St at Commonwealth Ave",
+			"average": 490
+		}, {
+			"min": 0,
+			"id": "218",
+			"max": 1097,
+			"location": [
+				-71.04573011,
+				42.3515431
+			],
+			"name": "Watermark Seaport",
+			"average": 512
+		}, {
+			"min": 136,
+			"id": "141",
+			"max": 923,
+			"location": [
+				-71.08216792,
+				42.36356016
+			],
+			"name": "Kendall Street",
+			"average": 517
+		}, {
+			"min": 0,
+			"id": "78",
+			"max": 921,
+			"location": [
+				-71.095319,
+				42.379637
+			],
+			"name": "Union Square - Somerville",
+			"average": 518
+		}, {
+			"min": 192,
+			"id": "184",
+			"max": 852,
+			"location": [
+				-71.10393405,
+				42.35775309
+			],
+			"name": "Sidney Research Campus/ Erie Street at Waverly",
+			"average": 521
+		}, {
+			"min": 127,
+			"id": "143",
+			"max": 870,
+			"location": [
+				-71.069957,
+				42.369885
+			],
+			"name": "EF - North Point Park",
+			"average": 523
+		}, {
+			"min": 0,
+			"id": "79",
+			"max": 934,
+			"location": [
+				-71.105668,
+				42.37842
+			],
+			"name": "Beacon St at Washington / Kirkland",
+			"average": 524
+		}, {
+			"min": 0,
+			"id": "192",
+			"max": 915,
+			"location": [
+				-71.053181,
+				42.354659
+			],
+			"name": "Purchase St at Pearl St",
+			"average": 531
+		}, {
+			"min": 0,
+			"id": "69",
+			"max": 1089,
+			"location": [
+				-71.123338,
+				42.341598
+			],
+			"name": "Coolidge Corner - Beacon St @ Centre St",
+			"average": 535
+		}, {
+			"min": 0,
+			"id": "24",
+			"max": 980,
+			"location": [
+				-71.043983,
+				42.351205
+			],
+			"name": "Seaport Square - Seaport Blvd. at Boston Wharf",
+			"average": 543
+		}, {
+			"min": 0,
+			"id": "57",
+			"max": 1144,
+			"location": [
+				-71.081572,
+				42.340799
+			],
+			"name": "Columbus Ave. at Mass. Ave.",
+			"average": 549
+		}, {
+			"min": 126,
+			"id": "185",
+			"max": 914,
+			"location": [
+				-71.08277142,
+				42.36544486
+			],
+			"name": "Third at Binney",
+			"average": 553
+		}, {
+			"min": 0,
+			"id": "30",
+			"max": 1075,
+			"location": [
+				-71.105221,
+				42.334073
+			],
+			"name": "Brigham Cir / Huntington Ave",
+			"average": 563
+		}, {
+			"min": 240,
+			"id": "89",
+			"max": 857,
+			"location": [
+				-71.119945,
+				42.379011
+			],
+			"name": "Harvard Law School at Mass Ave / Jarvis St",
+			"average": 565
+		}, {
+			"min": 0,
+			"id": "149",
+			"max": 937,
+			"location": [
+				-71.129164,
+				42.363796
+			],
+			"name": "Harvard University Transportation Services - 175 North Harvard St",
+			"average": 578
+		}, {
+			"min": 213,
+			"id": "117",
+			"max": 933,
+			"location": [
+				-71.086388,
+				42.366095
+			],
+			"name": "Binney St / Sixth St",
+			"average": 597
+		}, {
+			"min": 0,
+			"id": "12",
+			"max": 983,
+			"location": [
+				-71.088496,
+				42.335911
+			],
+			"name": "Ruggles Station / Columbus Ave.",
+			"average": 600
+		}, {
+			"min": 0,
+			"id": "5",
+			"max": 1170,
+			"location": [
+				-71.090179,
+				42.341814
+			],
+			"name": "Northeastern U / North Parking Lot",
+			"average": 614
+		}, {
+			"min": 0,
+			"id": "14",
+			"max": 1109,
+			"location": [
+				-71.102797,
+				42.337171
+			],
+			"name": "HMS / HSPH - Ave. Louis Pasteur at Longwood Ave.",
+			"average": 618
+		}, {
+			"min": 0,
+			"id": "19",
+			"max": 1068,
+			"location": [
+				-71.105301,
+				42.347241
+			],
+			"name": "Buswell St. at Park Dr.",
+			"average": 623
+		}, {
+			"min": 260,
+			"id": "139",
+			"max": 975,
+			"location": [
+				-71.10809952,
+				42.36178044
+			],
+			"name": "Dana Park",
+			"average": 625
+		}, {
+			"min": 0,
+			"id": "25",
+			"max": 1000,
+			"location": [
+				-71.076847,
+				42.341332
+			],
+			"name": "Tremont St / W Newton St",
+			"average": 630
+		}, {
+			"min": 0,
+			"id": "49",
+			"max": 1154,
+			"location": [
+				-71.066289,
+				42.351146
+			],
+			"name": "Stuart St. at Charles St.",
+			"average": 640
+		}, {
+			"min": 0,
+			"id": "152",
+			"max": 1105,
+			"location": [
+				-71.063187,
+				42.345901
+			],
+			"name": "Ink Block",
+			"average": 648
+		}, {
+			"min": 0,
+			"id": "48",
+			"max": 1328,
+			"location": [
+				-71.055407,
+				42.356755
+			],
+			"name": "Post Office Square - Pearl St at Milk St",
+			"average": 649
+		}, {
+			"min": 206,
+			"id": "70",
+			"max": 1178,
+			"location": [
+				-71.12226963,
+				42.37199165
+			],
+			"name": "Harvard Kennedy School at Bennett St / Eliot St",
+			"average": 653
+		}, {
+			"min": 0,
+			"id": "11",
+			"max": 1305,
+			"location": [
+				-71.1065,
+				42.338629
+			],
+			"name": "Longwood Ave / Binney St",
+			"average": 656
+		}, {
+			"min": 268,
+			"id": "72",
+			"max": 1154,
+			"location": [
+				-71.084105,
+				42.362613
+			],
+			"name": "One Broadway / Kendall Sq at Main St / 3rd St",
+			"average": 660
+		}, {
+			"min": 12,
+			"id": "59",
+			"max": 1258,
+			"location": [
+				-71.059367,
+				42.351356
+			],
+			"name": "Chinatown Gate Plaza - Surface Rd. at Beach St.",
+			"average": 681
+		}, {
+			"min": 0,
+			"id": "9",
+			"max": 1487,
+			"location": [
+				-71.115639,
+				42.351246
+			],
+			"name": "Agganis Arena - 925 Comm Ave.",
+			"average": 693
+		}, {
+			"min": 9,
+			"id": "44",
+			"max": 1348,
+			"location": [
+				-71.057452,
+				42.360613
+			],
+			"name": "Faneuil Hall - Union St. at North St.",
+			"average": 702
+		}, {
+			"min": 0,
+			"id": "50",
+			"max": 1602,
+			"location": [
+				-71.07329249,
+				42.35114198
+			],
+			"name": "Boylston St at Berkeley St",
+			"average": 704
+		}, {
+			"min": 337,
+			"id": "108",
+			"max": 1000,
+			"location": [
+				-71.116865,
+				42.377945
+			],
+			"name": "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+			"average": 706
+		}, {
+			"min": 0,
+			"id": "32",
+			"max": 1319,
+			"location": [
+				-71.102221,
+				42.343912
+			],
+			"name": "Landmark Centre",
+			"average": 706
+		}, {
+			"min": 271,
+			"id": "110",
+			"max": 1144,
+			"location": [
+				-71.114025,
+				42.376369
+			],
+			"name": "Harvard University Gund Hall at Quincy St / Kirkland S",
+			"average": 707
+		}, {
+			"min": 0,
+			"id": "13",
+			"max": 1368,
+			"location": [
+				-71.073089,
+				42.336437
+			],
+			"name": "Boston Medical Center - E Concord St at Harrison Ave",
+			"average": 708
+		}, {
+			"min": 10,
+			"id": "151",
+			"max": 1467,
+			"location": [
+				-71.052163,
+				42.358155
+			],
+			"name": "John F Fitzgerald - Surface Road at India Street",
+			"average": 710
+		}, {
+			"min": 0,
+			"id": "40",
+			"max": 1646,
+			"location": [
+				-71.050877,
+				42.363871
+			],
+			"name": "Lewis Wharf - Atlantic Ave.",
+			"average": 710
+		}, {
+			"min": 0,
+			"id": "26",
+			"max": 1288,
+			"location": [
+				-71.068922,
+				42.341522
+			],
+			"name": "Washington St at Waltham St",
+			"average": 724
+		}, {
+			"min": 0,
+			"id": "120",
+			"max": 1525,
+			"location": [
+				-71.069849,
+				42.356052
+			],
+			"name": "Charles st and Beacon St",
+			"average": 725
+		}, {
+			"min": 0,
+			"id": "41",
+			"max": 1406,
+			"location": [
+				-71.123831,
+				42.352261
+			],
+			"name": "Packard's Corner - Comm. Ave. at Brighton Ave.",
+			"average": 727
+		}, {
+			"min": 295,
+			"id": "96",
+			"max": 1124,
+			"location": [
+				-71.111075,
+				42.373379
+			],
+			"name": "Cambridge Main Library at Broadway / Trowbridge St",
+			"average": 747
+		}, {
+			"min": 0,
+			"id": "4",
+			"max": 1330,
+			"location": [
+				-71.069616,
+				42.345392
+			],
+			"name": "Tremont St. at Berkeley St.",
+			"average": 757
+		}, {
+			"min": 0,
+			"id": "64",
+			"max": 1523,
+			"location": [
+				-71.04930013,
+				42.3510045
+			],
+			"name": "Congress St at Sleeper St",
+			"average": 758
+		}, {
+			"min": 375,
+			"id": "116",
+			"max": 1107,
+			"location": [
+				-71.104412,
+				42.370803
+			],
+			"name": "359 Broadway - Broadway at Fayette Street",
+			"average": 773
+		}, {
+			"min": 0,
+			"id": "10",
+			"max": 1520,
+			"location": [
+				-71.108279,
+				42.350406
+			],
+			"name": "B.U. Central - 725 Comm. Ave.",
+			"average": 781
+		}, {
+			"min": 266,
+			"id": "115",
+			"max": 1304,
+			"location": [
+				-71.119084,
+				42.387995
+			],
+			"name": "Porter Square Station",
+			"average": 799
+		}, {
+			"min": 223,
+			"id": "84",
+			"max": 1455,
+			"location": [
+				-71.076472,
+				42.366981
+			],
+			"name": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+			"average": 808
+		}, {
+			"min": 0,
+			"id": "39",
+			"max": 1491,
+			"location": [
+				-71.07401937,
+				42.33849279
+			],
+			"name": "Washington St. at Rutland St.",
+			"average": 816
+		}, {
+			"min": 0,
+			"id": "81",
+			"max": 1573,
+			"location": [
+				-71.062679,
+				42.352409
+			],
+			"name": "Boylston St / Washington St",
+			"average": 830
+		}, {
+			"min": 4,
+			"id": "43",
+			"max": 1578,
+			"location": [
+				-71.050699,
+				42.357143
+			],
+			"name": "Rowes Wharf - Atlantic Ave",
+			"average": 839
+		}, {
+			"min": 437,
+			"id": "87",
+			"max": 1157,
+			"location": [
+				-71.114214,
+				42.366621
+			],
+			"name": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+			"average": 841
+		}, {
+			"min": 198,
+			"id": "97",
+			"max": 1606,
+			"location": [
+				-71.11714125,
+				42.36919032
+			],
+			"name": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+			"average": 844
+		}, {
+			"min": 0,
+			"id": "35",
+			"max": 1510,
+			"location": [
+				-71.05825603,
+				42.35530156
+			],
+			"name": "Arch St at Franklin St",
+			"average": 852
+		}, {
+			"min": 0,
+			"id": "52",
+			"max": 1870,
+			"location": [
+				-71.085954,
+				42.348717
+			],
+			"name": "Newbury St at Hereford St",
+			"average": 865
+		}, {
+			"min": 423,
+			"id": "95",
+			"max": 1218,
+			"location": [
+				-71.094445,
+				42.372969
+			],
+			"name": "Cambridge St - at Columbia St / Webster Ave",
+			"average": 869
+		}, {
+			"min": 0,
+			"id": "98",
+			"max": 1614,
+			"location": [
+				-71.060292,
+				42.371848
+			],
+			"name": "Charlestown - Warren St at Chelsea St",
+			"average": 882
+		}, {
+			"min": 0,
+			"id": "20",
+			"max": 1698,
+			"location": [
+				-71.051601,
+				42.35977
+			],
+			"name": "Aquarium Station - 200 Atlantic Ave.",
+			"average": 883
+		}, {
+			"min": 0,
+			"id": "100",
+			"max": 1660,
+			"location": [
+				-71.123024,
+				42.396969
+			],
+			"name": "Davis Square",
+			"average": 895
+		}, {
+			"min": 0,
+			"id": "54",
+			"max": 1807,
+			"location": [
+				-71.063348,
+				42.354979
+			],
+			"name": "Tremont St / West St",
+			"average": 897
+		}, {
+			"min": 325,
+			"id": "75",
+			"max": 1463,
+			"location": [
+				-71.10057324,
+				42.36346469
+			],
+			"name": "Lafayette Square at Mass Ave / Main St / Columbia St",
+			"average": 898
+		}, {
+			"min": 289,
+			"id": "73",
+			"max": 1677,
+			"location": [
+				-71.120886,
+				42.373231
+			],
+			"name": "Harvard Square at Brattle St / Eliot St",
+			"average": 964
+		}, {
+			"min": 0,
+			"id": "6",
+			"max": 1833,
+			"location": [
+				-71.065142,
+				42.361174
+			],
+			"name": "Cambridge St. at Joy St.",
+			"average": 975
+		}, {
+			"min": 0,
+			"id": "45",
+			"max": 2182,
+			"location": [
+				-71.09785348,
+				42.34468084
+			],
+			"name": "Yawkey Way at Boylston St.",
+			"average": 1000
+		}, {
+			"min": 0,
+			"id": "55",
+			"max": 1972,
+			"location": [
+				-71.088088,
+				42.347265
+			],
+			"name": "Boylston St at Massachusetts Ave",
+			"average": 1013
+		}, {
+			"min": 0,
+			"id": "42",
+			"max": 2263,
+			"location": [
+				-71.06782079,
+				42.35255006
+			],
+			"name": "Boylston St. at Arlington St.",
+			"average": 1020
+		}, {
+			"min": 0,
+			"id": "33",
+			"max": 2294,
+			"location": [
+				-71.097009,
+				42.348706
+			],
+			"name": "Kenmore Sq / Comm Ave",
+			"average": 1041
+		}, {
+			"min": 287,
+			"id": "90",
+			"max": 1747,
+			"location": [
+				-71.076529,
+				42.370677
+			],
+			"name": "Lechmere Station at Cambridge St / First St",
+			"average": 1041
+		}, {
+			"min": 0,
+			"id": "21",
+			"max": 1905,
+			"location": [
+				-71.082578,
+				42.345959
+			],
+			"name": "Prudential Center / Belvidere",
+			"average": 1058
+		}, {
+			"min": 618,
+			"id": "88",
+			"max": 1507,
+			"location": [
+				-71.101427,
+				42.374035
+			],
+			"name": "Inman Square at Vellucci Plaza / Hampshire St",
+			"average": 1059
+		}, {
+			"min": 483,
+			"id": "105",
+			"max": 1798,
+			"location": [
+				-71.113687,
+				42.356954
+			],
+			"name": "Lower Cambridgeport at Magazine St/Riverside Rd",
+			"average": 1084
+		}, {
+			"min": 401,
+			"id": "76",
+			"max": 1720,
+			"location": [
+				-71.105495,
+				42.366426
+			],
+			"name": "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St",
+			"average": 1108
+		}, {
+			"min": 0,
+			"id": "61",
+			"max": 2340,
+			"location": [
+				-71.082383,
+				42.348762
+			],
+			"name": "Boylston St at Fairfield St",
+			"average": 1125
+		}, {
+			"min": 0,
+			"id": "46",
+			"max": 1816,
+			"location": [
+				-71.085918,
+				42.343864
+			],
+			"name": "Christian Science Plaza",
+			"average": 1128
+		}, {
+			"min": 0,
+			"id": "58",
+			"max": 2367,
+			"location": [
+				-71.07278,
+				42.355596
+			],
+			"name": "The Esplanade - Beacon St. at Arlington St.",
+			"average": 1183
+		}, {
+			"min": 0,
+			"id": "23",
+			"max": 2329,
+			"location": [
+				-71.057629,
+				42.35892
+			],
+			"name": "Mayor Martin J Walsh - 28 State St",
+			"average": 1218
+		}, {
+			"min": 0,
+			"id": "16",
+			"max": 2077,
+			"location": [
+				-71.07657015,
+				42.34807412
+			],
+			"name": "Back Bay / South End Station",
+			"average": 1260
+		}, {
+			"min": 493,
+			"id": "177",
+			"max": 2040,
+			"location": [
+				-71.10006094,
+				42.36264779
+			],
+			"name": "University Park",
+			"average": 1286
+		}, {
+			"min": 0,
+			"id": "47",
+			"max": 2354,
+			"location": [
+				-71.056067,
+				42.362811
+			],
+			"name": "Cross St. at Hanover St.",
+			"average": 1328
+		}, {
+			"min": 581,
+			"id": "91",
+			"max": 2027,
+			"location": [
+				-71.09169,
+				42.366277
+			],
+			"name": "One Kendall Square at Hampshire St / Portland St",
+			"average": 1394
+		}, {
+			"min": 569,
+			"id": "107",
+			"max": 2257,
+			"location": [
+				-71.08822,
+				42.3625
+			],
+			"name": "Ames St at Main St",
+			"average": 1512
+		}, {
+			"min": 0,
+			"id": "190",
+			"max": 2752,
+			"location": [
+				-71.06424809,
+				42.36559771
+			],
+			"name": "Nashua Street at Red Auerbach Way",
+			"average": 1541
+		}, {
+			"min": 0,
+			"id": "60",
+			"max": 3043,
+			"location": [
+				-71.07092813,
+				42.36071445
+			],
+			"name": "Charles Circle - Charles St at Cambridge St",
+			"average": 1560
+		}, {
+			"min": 763,
+			"id": "178",
+			"max": 2284,
+			"location": [
+				-71.10129476,
+				42.3595732
+			],
+			"name": "MIT Pacific St at Purrington St",
+			"average": 1628
+		}, {
+			"min": 34,
+			"id": "36",
+			"max": 3066,
+			"location": [
+				-71.077303,
+				42.349673
+			],
+			"name": "Boston Public Library - 700 Boylston St.",
+			"average": 1629
+		}, {
+			"min": 930,
+			"id": "179",
+			"max": 2427,
+			"location": [
+				-71.10394478,
+				42.35560121
+			],
+			"name": "MIT Vassar St",
+			"average": 1685
+		}, {
+			"min": 0,
+			"id": "53",
+			"max": 3451,
+			"location": [
+				-71.08981088,
+				42.35082681
+			],
+			"name": "Beacon St at Massachusetts Ave",
+			"average": 1766
+		}, {
+			"min": 555,
+			"id": "74",
+			"max": 3222,
+			"location": [
+				-71.118579,
+				42.373268
+			],
+			"name": "Harvard Square at Mass Ave/ Dunster",
+			"average": 1842
+		}, {
+			"min": 832,
+			"id": "189",
+			"max": 3250,
+			"location": [
+				-71.08495474,
+				42.36242784
+			],
+			"name": "Kendall T",
+			"average": 1992
+		}, {
+			"min": 1037,
+			"id": "80",
+			"max": 3144,
+			"location": [
+				-71.0920526,
+				42.3619622
+			],
+			"name": "MIT Stata Center at Vassar St / Main St",
+			"average": 2044
+		}, {
+			"min": 842,
+			"id": "68",
+			"max": 3561,
+			"location": [
+				-71.1031,
+				42.36507
+			],
+			"name": "Central Square at Mass Ave / Essex St",
+			"average": 2201
+		}, {
+			"min": 11,
+			"id": "22",
+			"max": 4382,
+			"location": [
+				-71.055547,
+				42.352175
+			],
+			"name": "South Station - 700 Atlantic Ave.",
+			"average": 2320
+		}, {
+			"min": 1232,
+			"id": "67",
+			"max": 5908,
+			"location": [
+				-71.093198,
+				42.3581
+			],
+			"name": "MIT at Mass Ave / Amherst St",
+			"average": 3526
+		}
+	]
+}

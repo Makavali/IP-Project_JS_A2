@@ -1,0 +1,1181 @@
+{
+	"data": [
+		{
+			"min": 11,
+			"id": "22",
+			"max": 4382,
+			"location": [
+				-71.055547,
+				42.352175
+			],
+			"name": "South Station - 700 Atlantic Ave.",
+			"kv": {
+				"Feb": 11,
+				"Mar": 627,
+				"Apr": 2053,
+				"Jan": 160,
+				"May": 3014,
+				"July": 3679,
+				"Oct": 3191,
+				"Nov": 2381,
+				"Dec": 1432,
+				"Sept": 3369,
+				"Jun": 3543,
+				"Aug": 4382
+			},
+			"average": 2320
+		}, {
+			"min": 34,
+			"id": "36",
+			"max": 3066,
+			"location": [
+				-71.077303,
+				42.349673
+			],
+			"name": "Boston Public Library - 700 Boylston St.",
+			"kv": {
+				"Feb": 34,
+				"Mar": 693,
+				"Apr": 1361,
+				"Jan": 135,
+				"May": 1922,
+				"July": 2698,
+				"Oct": 2297,
+				"Nov": 1374,
+				"Dec": 1195,
+				"Sept": 2276,
+				"Jun": 2501,
+				"Aug": 3066
+			},
+			"average": 1629
+		}, {
+			"min": 4,
+			"id": "43",
+			"max": 1578,
+			"location": [
+				-71.050699,
+				42.357143
+			],
+			"name": "Rowes Wharf - Atlantic Ave",
+			"kv": {
+				"Feb": 4,
+				"Mar": 319,
+				"Apr": 741,
+				"Jan": 81,
+				"May": 1117,
+				"July": 1371,
+				"Oct": 1115,
+				"Nov": 675,
+				"Dec": 383,
+				"Sept": 1185,
+				"Jun": 1578,
+				"Aug": 1501
+			},
+			"average": 839
+		}, {
+			"min": 9,
+			"id": "44",
+			"max": 1348,
+			"location": [
+				-71.057452,
+				42.360613
+			],
+			"name": "Faneuil Hall - Union St. at North St.",
+			"kv": {
+				"Feb": 9,
+				"Mar": 223,
+				"Apr": 729,
+				"Jan": 22,
+				"May": 914,
+				"July": 1348,
+				"Oct": 939,
+				"Nov": 477,
+				"Dec": 316,
+				"Sept": 881,
+				"Jun": 1242,
+				"Aug": 1330
+			},
+			"average": 702
+		}, {
+			"min": 12,
+			"id": "59",
+			"max": 1258,
+			"location": [
+				-71.059367,
+				42.351356
+			],
+			"name": "Chinatown Gate Plaza - Surface Rd. at Beach St.",
+			"kv": {
+				"Feb": 12,
+				"Mar": 237,
+				"Apr": 530,
+				"Jan": 38,
+				"May": 851,
+				"July": 1120,
+				"Oct": 975,
+				"Nov": 628,
+				"Dec": 387,
+				"Sept": 1101,
+				"Jun": 1036,
+				"Aug": 1258
+			},
+			"average": 681
+		}, {
+			"min": 1232,
+			"id": "67",
+			"max": 5908,
+			"location": [
+				-71.093198,
+				42.3581
+			],
+			"name": "MIT at Mass Ave / Amherst St",
+			"kv": {
+				"Feb": 1456,
+				"Mar": 1585,
+				"Apr": 3376,
+				"Jan": 1232,
+				"May": 3643,
+				"July": 4799,
+				"Oct": 5908,
+				"Nov": 3885,
+				"Dec": 2074,
+				"Sept": 5257,
+				"Jun": 4135,
+				"Aug": 4970
+			},
+			"average": 3526
+		}, {
+			"min": 842,
+			"id": "68",
+			"max": 3561,
+			"location": [
+				-71.1031,
+				42.36507
+			],
+			"name": "Central Square at Mass Ave / Essex St",
+			"kv": {
+				"Feb": 842,
+				"Mar": 1103,
+				"Apr": 1933,
+				"Jan": 874,
+				"May": 2247,
+				"July": 3203,
+				"Oct": 3195,
+				"Nov": 2124,
+				"Dec": 1184,
+				"Sept": 3259,
+				"Jun": 2890,
+				"Aug": 3561
+			},
+			"average": 2201
+		}, {
+			"min": 206,
+			"id": "70",
+			"max": 1178,
+			"location": [
+				-71.12226963,
+				42.37199165
+			],
+			"name": "Harvard Kennedy School at Bennett St / Eliot St",
+			"kv": {
+				"Feb": 251,
+				"Mar": 297,
+				"Apr": 693,
+				"Jan": 206,
+				"May": 618,
+				"July": 860,
+				"Oct": 1178,
+				"Nov": 745,
+				"Dec": 296,
+				"Sept": 1076,
+				"Jun": 699,
+				"Aug": 925
+			},
+			"average": 653
+		}, {
+			"min": 268,
+			"id": "72",
+			"max": 1154,
+			"location": [
+				-71.084105,
+				42.362613
+			],
+			"name": "One Broadway / Kendall Sq at Main St / 3rd St",
+			"kv": {
+				"Feb": 270,
+				"Mar": 353,
+				"Apr": 767,
+				"Jan": 268,
+				"May": 974,
+				"July": 1006,
+				"Oct": 679,
+				"Nov": 516,
+				"Dec": 335,
+				"Sept": 718,
+				"Jun": 1154,
+				"Aug": 886
+			},
+			"average": 660
+		}, {
+			"min": 289,
+			"id": "73",
+			"max": 1677,
+			"location": [
+				-71.120886,
+				42.373231
+			],
+			"name": "Harvard Square at Brattle St / Eliot St",
+			"kv": {
+				"Feb": 289,
+				"Mar": 392,
+				"Apr": 904,
+				"Jan": 339,
+				"May": 919,
+				"July": 1668,
+				"Oct": 1479,
+				"Nov": 886,
+				"Dec": 385,
+				"Sept": 1394,
+				"Jun": 1242,
+				"Aug": 1677
+			},
+			"average": 964
+		}, {
+			"min": 555,
+			"id": "74",
+			"max": 3222,
+			"location": [
+				-71.118579,
+				42.373268
+			],
+			"name": "Harvard Square at Mass Ave/ Dunster",
+			"kv": {
+				"Feb": 595,
+				"Mar": 730,
+				"Apr": 2131,
+				"Jan": 555,
+				"May": 2202,
+				"July": 3222,
+				"Oct": 2581,
+				"Nov": 1449,
+				"Dec": 701,
+				"Sept": 2374,
+				"Jun": 2702,
+				"Aug": 2862
+			},
+			"average": 1842
+		}, {
+			"min": 325,
+			"id": "75",
+			"max": 1463,
+			"location": [
+				-71.10057324,
+				42.36346469
+			],
+			"name": "Lafayette Square at Mass Ave / Main St / Columbia St",
+			"kv": {
+				"Feb": 325,
+				"Mar": 421,
+				"Apr": 925,
+				"Jan": 357,
+				"May": 1056,
+				"July": 1463,
+				"Oct": 1117,
+				"Nov": 831,
+				"Dec": 432,
+				"Sept": 1131,
+				"Jun": 1394,
+				"Aug": 1330
+			},
+			"average": 898
+		}, {
+			"min": 401,
+			"id": "76",
+			"max": 1720,
+			"location": [
+				-71.105495,
+				42.366426
+			],
+			"name": "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St",
+			"kv": {
+				"Feb": 412,
+				"Mar": 480,
+				"Apr": 1056,
+				"Jan": 401,
+				"May": 1223,
+				"July": 1693,
+				"Oct": 1512,
+				"Nov": 1013,
+				"Dec": 595,
+				"Sept": 1579,
+				"Jun": 1622,
+				"Aug": 1720
+			},
+			"average": 1108
+		}, {
+			"min": 1037,
+			"id": "80",
+			"max": 3144,
+			"location": [
+				-71.0920526,
+				42.3619622
+			],
+			"name": "MIT Stata Center at Vassar St / Main St",
+			"kv": {
+				"Feb": 1050,
+				"Mar": 1226,
+				"Apr": 1818,
+				"Jan": 1037,
+				"May": 2183,
+				"July": 2273,
+				"Oct": 3144,
+				"Nov": 2476,
+				"Dec": 1502,
+				"Sept": 2821,
+				"Jun": 2226,
+				"Aug": 2776
+			},
+			"average": 2044
+		}, {
+			"min": 223,
+			"id": "84",
+			"max": 1455,
+			"location": [
+				-71.076472,
+				42.366981
+			],
+			"name": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+			"kv": {
+				"Feb": 223,
+				"Mar": 296,
+				"Apr": 703,
+				"Jan": 251,
+				"May": 863,
+				"July": 1212,
+				"Oct": 1072,
+				"Nov": 865,
+				"Dec": 491,
+				"Sept": 1125,
+				"Jun": 1148,
+				"Aug": 1455
+			},
+			"average": 808
+		}, {
+			"min": 437,
+			"id": "87",
+			"max": 1157,
+			"location": [
+				-71.114214,
+				42.366621
+			],
+			"name": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+			"kv": {
+				"Feb": 497,
+				"Mar": 585,
+				"Apr": 862,
+				"Jan": 497,
+				"May": 922,
+				"July": 1108,
+				"Oct": 1133,
+				"Nov": 781,
+				"Dec": 437,
+				"Sept": 1076,
+				"Jun": 1044,
+				"Aug": 1157
+			},
+			"average": 841
+		}, {
+			"min": 618,
+			"id": "88",
+			"max": 1507,
+			"location": [
+				-71.101427,
+				42.374035
+			],
+			"name": "Inman Square at Vellucci Plaza / Hampshire St",
+			"kv": {
+				"Feb": 683,
+				"Mar": 797,
+				"Apr": 1119,
+				"Jan": 676,
+				"May": 1174,
+				"July": 1507,
+				"Oct": 1155,
+				"Nov": 803,
+				"Dec": 618,
+				"Sept": 1308,
+				"Jun": 1386,
+				"Aug": 1492
+			},
+			"average": 1059
+		}, {
+			"min": 240,
+			"id": "89",
+			"max": 857,
+			"location": [
+				-71.119945,
+				42.379011
+			],
+			"name": "Harvard Law School at Mass Ave / Jarvis St",
+			"kv": {
+				"Feb": 261,
+				"Mar": 298,
+				"Apr": 616,
+				"Jan": 261,
+				"May": 566,
+				"July": 834,
+				"Oct": 751,
+				"Nov": 533,
+				"Dec": 240,
+				"Sept": 857,
+				"Jun": 774,
+				"Aug": 791
+			},
+			"average": 565
+		}, {
+			"min": 287,
+			"id": "90",
+			"max": 1747,
+			"location": [
+				-71.076529,
+				42.370677
+			],
+			"name": "Lechmere Station at Cambridge St / First St",
+			"kv": {
+				"Feb": 287,
+				"Mar": 402,
+				"Apr": 871,
+				"Jan": 380,
+				"May": 1161,
+				"July": 1556,
+				"Oct": 1511,
+				"Nov": 994,
+				"Dec": 586,
+				"Sept": 1533,
+				"Jun": 1473,
+				"Aug": 1747
+			},
+			"average": 1041
+		}, {
+			"min": 581,
+			"id": "91",
+			"max": 2027,
+			"location": [
+				-71.09169,
+				42.366277
+			],
+			"name": "One Kendall Square at Hampshire St / Portland St",
+			"kv": {
+				"Feb": 598,
+				"Mar": 659,
+				"Apr": 1320,
+				"Jan": 581,
+				"May": 1696,
+				"July": 1777,
+				"Oct": 2027,
+				"Nov": 1491,
+				"Dec": 913,
+				"Sept": 1825,
+				"Jun": 1858,
+				"Aug": 1987
+			},
+			"average": 1394
+		}, {
+			"min": 423,
+			"id": "95",
+			"max": 1218,
+			"location": [
+				-71.094445,
+				42.372969
+			],
+			"name": "Cambridge St - at Columbia St / Webster Ave",
+			"kv": {
+				"Feb": 423,
+				"Mar": 565,
+				"Apr": 878,
+				"Jan": 455,
+				"May": 1021,
+				"July": 1201,
+				"Oct": 1098,
+				"Nov": 791,
+				"Dec": 489,
+				"Sept": 1091,
+				"Jun": 1199,
+				"Aug": 1218
+			},
+			"average": 869
+		}, {
+			"min": 295,
+			"id": "96",
+			"max": 1124,
+			"location": [
+				-71.111075,
+				42.373379
+			],
+			"name": "Cambridge Main Library at Broadway / Trowbridge St",
+			"kv": {
+				"Feb": 397,
+				"Mar": 447,
+				"Apr": 839,
+				"Jan": 321,
+				"May": 942,
+				"July": 1067,
+				"Oct": 947,
+				"Nov": 582,
+				"Dec": 295,
+				"Sept": 1035,
+				"Jun": 972,
+				"Aug": 1124
+			},
+			"average": 747
+		}, {
+			"min": 198,
+			"id": "97",
+			"max": 1606,
+			"location": [
+				-71.11714125,
+				42.36919032
+			],
+			"name": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+			"kv": {
+				"Feb": 270,
+				"Mar": 323,
+				"Apr": 945,
+				"Jan": 198,
+				"May": 956,
+				"July": 1606,
+				"Oct": 1259,
+				"Nov": 584,
+				"Dec": 228,
+				"Sept": 1207,
+				"Jun": 1233,
+				"Aug": 1319
+			},
+			"average": 844
+		}, {
+			"min": 210,
+			"id": "104",
+			"max": 848,
+			"location": [
+				-71.125107,
+				42.380287
+			],
+			"name": "Harvard University Radcliffe Quadrangle at Shepard St / Garden St",
+			"kv": {
+				"Feb": 284,
+				"Mar": 249,
+				"Apr": 477,
+				"Jan": 210,
+				"May": 456,
+				"July": 848,
+				"Oct": 672,
+				"Nov": 438,
+				"Dec": 243,
+				"Sept": 686,
+				"Jun": 544,
+				"Aug": 661
+			},
+			"average": 480
+		}, {
+			"min": 483,
+			"id": "105",
+			"max": 1798,
+			"location": [
+				-71.113687,
+				42.356954
+			],
+			"name": "Lower Cambridgeport at Magazine St/Riverside Rd",
+			"kv": {
+				"Feb": 483,
+				"Mar": 541,
+				"Apr": 1066,
+				"Jan": 513,
+				"May": 1259,
+				"July": 1798,
+				"Oct": 1306,
+				"Nov": 846,
+				"Dec": 542,
+				"Sept": 1486,
+				"Jun": 1458,
+				"Aug": 1713
+			},
+			"average": 1084
+		}, {
+			"min": 569,
+			"id": "107",
+			"max": 2257,
+			"location": [
+				-71.08822,
+				42.3625
+			],
+			"name": "Ames St at Main St",
+			"kv": {
+				"Feb": 602,
+				"Mar": 801,
+				"Apr": 1276,
+				"Jan": 569,
+				"May": 1590,
+				"July": 1970,
+				"Oct": 2179,
+				"Nov": 1503,
+				"Dec": 1033,
+				"Sept": 2257,
+				"Jun": 2218,
+				"Aug": 2152
+			},
+			"average": 1512
+		}, {
+			"min": 337,
+			"id": "108",
+			"max": 1000,
+			"location": [
+				-71.116865,
+				42.377945
+			],
+			"name": "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+			"kv": {
+				"Feb": 407,
+				"Mar": 465,
+				"Apr": 650,
+				"Jan": 337,
+				"May": 796,
+				"July": 969,
+				"Oct": 1000,
+				"Nov": 710,
+				"Dec": 395,
+				"Sept": 989,
+				"Jun": 813,
+				"Aug": 942
+			},
+			"average": 706
+		}, {
+			"min": 271,
+			"id": "110",
+			"max": 1144,
+			"location": [
+				-71.114025,
+				42.376369
+			],
+			"name": "Harvard University Gund Hall at Quincy St / Kirkland S",
+			"kv": {
+				"Feb": 327,
+				"Mar": 346,
+				"Apr": 796,
+				"Jan": 271,
+				"May": 746,
+				"July": 1144,
+				"Oct": 1063,
+				"Nov": 660,
+				"Dec": 302,
+				"Sept": 1119,
+				"Jun": 758,
+				"Aug": 955
+			},
+			"average": 707
+		}, {
+			"min": 266,
+			"id": "115",
+			"max": 1304,
+			"location": [
+				-71.119084,
+				42.387995
+			],
+			"name": "Porter Square Station",
+			"kv": {
+				"Feb": 290,
+				"Mar": 354,
+				"Apr": 751,
+				"Jan": 266,
+				"May": 991,
+				"July": 1087,
+				"Oct": 1123,
+				"Nov": 779,
+				"Dec": 437,
+				"Sept": 1128,
+				"Jun": 1086,
+				"Aug": 1304
+			},
+			"average": 799
+		}, {
+			"min": 375,
+			"id": "116",
+			"max": 1107,
+			"location": [
+				-71.104412,
+				42.370803
+			],
+			"name": "359 Broadway - Broadway at Fayette Street",
+			"kv": {
+				"Feb": 375,
+				"Mar": 512,
+				"Apr": 743,
+				"Jan": 411,
+				"May": 881,
+				"July": 990,
+				"Oct": 1060,
+				"Nov": 744,
+				"Dec": 460,
+				"Sept": 1107,
+				"Jun": 907,
+				"Aug": 1089
+			},
+			"average": 773
+		}, {
+			"min": 213,
+			"id": "117",
+			"max": 933,
+			"location": [
+				-71.086388,
+				42.366095
+			],
+			"name": "Binney St / Sixth St",
+			"kv": {
+				"Feb": 234,
+				"Mar": 246,
+				"Apr": 547,
+				"Jan": 213,
+				"May": 776,
+				"July": 742,
+				"Oct": 846,
+				"Nov": 580,
+				"Dec": 386,
+				"Sept": 816,
+				"Jun": 856,
+				"Aug": 933
+			},
+			"average": 597
+		}, {
+			"min": 146,
+			"id": "118",
+			"max": 669,
+			"location": [
+				-71.130516,
+				42.397828
+			],
+			"name": "Linear Park - Mass. Ave. at Cameron Ave. ",
+			"kv": {
+				"Feb": 146,
+				"Mar": 153,
+				"Apr": 390,
+				"Jan": 187,
+				"May": 532,
+				"July": 582,
+				"Oct": 550,
+				"Nov": 393,
+				"Dec": 319,
+				"Sept": 541,
+				"Jun": 637,
+				"Aug": 669
+			},
+			"average": 424
+		}, {
+			"min": 260,
+			"id": "139",
+			"max": 975,
+			"location": [
+				-71.10809952,
+				42.36178044
+			],
+			"name": "Dana Park",
+			"kv": {
+				"Feb": 260,
+				"Mar": 288,
+				"Apr": 579,
+				"Jan": 299,
+				"May": 642,
+				"July": 904,
+				"Oct": 893,
+				"Nov": 621,
+				"Dec": 359,
+				"Sept": 975,
+				"Jun": 827,
+				"Aug": 853
+			},
+			"average": 625
+		}, {
+			"min": 66,
+			"id": "140",
+			"max": 370,
+			"location": [
+				-71.132788,
+				42.388966
+			],
+			"name": "Danehy Park",
+			"kv": {
+				"Feb": 66,
+				"Mar": 77,
+				"Apr": 240,
+				"Jan": 72,
+				"May": 274,
+				"July": 313,
+				"Oct": 294,
+				"Nov": 195,
+				"Dec": 92,
+				"Sept": 282,
+				"Jun": 370,
+				"Aug": 363
+			},
+			"average": 219
+		}, {
+			"min": 136,
+			"id": "141",
+			"max": 923,
+			"location": [
+				-71.08216792,
+				42.36356016
+			],
+			"name": "Kendall Street",
+			"kv": {
+				"Feb": 136,
+				"Mar": 235,
+				"Apr": 458,
+				"Jan": 183,
+				"May": 588,
+				"July": 746,
+				"Oct": 702,
+				"Nov": 420,
+				"Dec": 280,
+				"Sept": 779,
+				"Jun": 755,
+				"Aug": 923
+			},
+			"average": 517
+		}, {
+			"min": 30,
+			"id": "142",
+			"max": 336,
+			"location": [
+				-71.139459,
+				42.396105
+			],
+			"name": "Alewife Station at Russell Field",
+			"kv": {
+				"Feb": 30,
+				"Mar": 38,
+				"Apr": 150,
+				"Jan": 54,
+				"May": 186,
+				"July": 328,
+				"Oct": 226,
+				"Nov": 99,
+				"Dec": 41,
+				"Sept": 252,
+				"Jun": 284,
+				"Aug": 336
+			},
+			"average": 168
+		}, {
+			"min": 127,
+			"id": "143",
+			"max": 870,
+			"location": [
+				-71.069957,
+				42.369885
+			],
+			"name": "EF - North Point Park",
+			"kv": {
+				"Feb": 166,
+				"Mar": 127,
+				"Apr": 499,
+				"Jan": 211,
+				"May": 618,
+				"July": 802,
+				"Oct": 870,
+				"Nov": 498,
+				"Dec": 271,
+				"Sept": 729,
+				"Jun": 747,
+				"Aug": 742
+			},
+			"average": 523
+		}, {
+			"min": 107,
+			"id": "145",
+			"max": 248,
+			"location": [
+				-71.129042,
+				42.392766
+			],
+			"name": "Rindge Avenue - O'Neill Library",
+			"kv": {
+				"Feb": 107,
+				"Mar": 118,
+				"Apr": 181,
+				"Jan": 142,
+				"May": 178,
+				"July": 235,
+				"Oct": 230,
+				"Nov": 155,
+				"Dec": 132,
+				"Sept": 237,
+				"Jun": 248,
+				"Aug": 206
+			},
+			"average": 180
+		}, {
+			"min": 10,
+			"id": "151",
+			"max": 1467,
+			"location": [
+				-71.052163,
+				42.358155
+			],
+			"name": "John F Fitzgerald - Surface Road at India Street",
+			"kv": {
+				"Feb": 10,
+				"Mar": 284,
+				"Apr": 556,
+				"Jan": 42,
+				"May": 786,
+				"July": 1113,
+				"Oct": 1011,
+				"Nov": 635,
+				"Dec": 431,
+				"Sept": 1018,
+				"Jun": 1171,
+				"Aug": 1467
+			},
+			"average": 710
+		}, {
+			"min": 114,
+			"id": "176",
+			"max": 499,
+			"location": [
+				-71.11901879,
+				42.38674802
+			],
+			"name": "Lesley University",
+			"kv": {
+				"Feb": 114,
+				"Mar": 135,
+				"Apr": 290,
+				"Jan": 136,
+				"May": 271,
+				"July": 488,
+				"Oct": 386,
+				"Nov": 251,
+				"Dec": 133,
+				"Sept": 393,
+				"Jun": 434,
+				"Aug": 499
+			},
+			"average": 294
+		}, {
+			"min": 493,
+			"id": "177",
+			"max": 2040,
+			"location": [
+				-71.10006094,
+				42.36264779
+			],
+			"name": "University Park",
+			"kv": {
+				"Feb": 582,
+				"Mar": 657,
+				"Apr": 1189,
+				"Jan": 493,
+				"May": 1302,
+				"July": 1847,
+				"Oct": 1965,
+				"Nov": 1222,
+				"Dec": 721,
+				"Sept": 1938,
+				"Jun": 1480,
+				"Aug": 2040
+			},
+			"average": 1286
+		}, {
+			"min": 763,
+			"id": "178",
+			"max": 2284,
+			"location": [
+				-71.10129476,
+				42.3595732
+			],
+			"name": "MIT Pacific St at Purrington St",
+			"kv": {
+				"Feb": 934,
+				"Mar": 1041,
+				"Apr": 1611,
+				"Jan": 763,
+				"May": 1944,
+				"July": 1850,
+				"Oct": 2284,
+				"Nov": 1836,
+				"Dec": 1137,
+				"Sept": 2186,
+				"Jun": 1808,
+				"Aug": 2146
+			},
+			"average": 1628
+		}, {
+			"min": 930,
+			"id": "179",
+			"max": 2427,
+			"location": [
+				-71.10394478,
+				42.35560121
+			],
+			"name": "MIT Vassar St",
+			"kv": {
+				"Feb": 966,
+				"Mar": 1130,
+				"Apr": 1595,
+				"Jan": 930,
+				"May": 1850,
+				"July": 2008,
+				"Oct": 2427,
+				"Nov": 1650,
+				"Dec": 1042,
+				"Sept": 2284,
+				"Jun": 2134,
+				"Aug": 2205
+			},
+			"average": 1685
+		}, {
+			"min": 75,
+			"id": "180",
+			"max": 502,
+			"location": [
+				-71.13320231,
+				42.37478629
+			],
+			"name": "Mt Auburn",
+			"kv": {
+				"Feb": 75,
+				"Mar": 109,
+				"Apr": 229,
+				"Jan": 81,
+				"May": 230,
+				"July": 427,
+				"Oct": 502,
+				"Nov": 204,
+				"Dec": 86,
+				"Sept": 361,
+				"Jun": 336,
+				"Aug": 323
+			},
+			"average": 246
+		}, {
+			"min": 36,
+			"id": "183",
+			"max": 297,
+			"location": [
+				-71.14260614,
+				42.39558846
+			],
+			"name": "Alewife MBTA at Steel Place",
+			"kv": {
+				"Feb": 49,
+				"Mar": 47,
+				"Apr": 130,
+				"Jan": 36,
+				"May": 170,
+				"July": 297,
+				"Oct": 220,
+				"Nov": 110,
+				"Dec": 38,
+				"Sept": 238,
+				"Jun": 228,
+				"Aug": 279
+			},
+			"average": 153
+		}, {
+			"min": 192,
+			"id": "184",
+			"max": 852,
+			"location": [
+				-71.10393405,
+				42.35775309
+			],
+			"name": "Sidney Research Campus/ Erie Street at Waverly",
+			"kv": {
+				"Feb": 214,
+				"Mar": 264,
+				"Apr": 461,
+				"Jan": 192,
+				"May": 579,
+				"July": 642,
+				"Oct": 776,
+				"Nov": 538,
+				"Dec": 315,
+				"Sept": 852,
+				"Jun": 594,
+				"Aug": 826
+			},
+			"average": 521
+		}, {
+			"min": 126,
+			"id": "185",
+			"max": 914,
+			"location": [
+				-71.08277142,
+				42.36544486
+			],
+			"name": "Third at Binney",
+			"kv": {
+				"Feb": 126,
+				"Mar": 146,
+				"Apr": 432,
+				"Jan": 166,
+				"May": 610,
+				"July": 752,
+				"Oct": 901,
+				"Nov": 597,
+				"Dec": 270,
+				"Sept": 904,
+				"Jun": 819,
+				"Aug": 914
+			},
+			"average": 553
+		}, {
+			"min": 832,
+			"id": "189",
+			"max": 3250,
+			"location": [
+				-71.08495474,
+				42.36242784
+			],
+			"name": "Kendall T",
+			"kv": {
+				"Feb": 1017,
+				"Mar": 1078,
+				"Apr": 1749,
+				"Jan": 832,
+				"May": 2075,
+				"July": 2150,
+				"Oct": 3250,
+				"Nov": 2302,
+				"Dec": 1312,
+				"Sept": 3134,
+				"Jun": 2190,
+				"Aug": 2821
+			},
+			"average": 1992
+		}, {
+			"min": 72,
+			"id": "195",
+			"max": 494,
+			"location": [
+				-71.07202649,
+				42.3720597
+			],
+			"name": "Brian P. Murphy Staircase at Child Street",
+			"kv": {
+				"Feb": 72,
+				"Mar": 80,
+				"Apr": 130,
+				"Jan": 78,
+				"May": 244,
+				"July": 427,
+				"Oct": 326,
+				"Nov": 214,
+				"Dec": 114,
+				"Sept": 325,
+				"Jun": 403,
+				"Aug": 494
+			},
+			"average": 242
+		}
+	]
+}

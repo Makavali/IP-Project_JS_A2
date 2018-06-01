@@ -1,0 +1,1881 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document id="root_doc">
+		<Schema name="Defaultlayer_Point_" id="Defaultlayer_Point_">
+			<SimpleField name="Style" type="string"></SimpleField>
+		</Schema>
+		<Folder>
+			<name>Defaultlayer_Point_</name>
+			<Placemark>
+				<name>Harvard University Gund Hall at Quincy St / Kirkland S</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000000)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.114025,42.376369</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fan Pier</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000001)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0443890094757,42.3532874345329</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>John F Fitzgerald - Surface Road at India Street</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000002)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.052163,42.358155</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>One Kendall Square at Hampshire St / Portland St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.09169,42.366277</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard University River Houses at DeWolfe St / Cowperthwaite St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1171412467956,42.3691903176807</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Landmark Centre</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.102221,42.343912</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cambridge St - at Columbia St / Webster Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.094445,42.372969</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ames St at Main St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.08822,42.3625</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Franklin St. / Arch St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.058087,42.355402</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Allston Green District - Commonwealth Ave/Griggs St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.13401,42.348607</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>One Broadway / Kendall Sq at Main St / 3rd St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.084105,42.362613</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Prudential Center / Belvidere</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.082578,42.345959</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Innovation Lab - 125 Western Ave. at Batten Way</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.124565,42.363732</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cambridge St. at Joy St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.065142,42.361174</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hyde Square at Barbara St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.110833,42.320998</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stuart St. at Charles St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.066289,42.351146</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.105495,42.366426</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard Law School at Mass Ave / Jarvis St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.119945,42.379011</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Union Square - Brighton Ave. at Cambridge St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.137313,42.353334</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard Square at Mass Ave/ Dunster</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.118579,42.373268</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MIT at Mass Ave / Amherst St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.093198,42.3581</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lafayette Square at Mass Ave / Main St / Columbia St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1005732417106,42.3634646930434</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kendall Street</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0821679234504,42.3635601584298</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HMS / HSPH - Ave. Louis Pasteur at Longwood Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.102797,42.337171</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washington St. at Lenox St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0790969,42.3348756</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Christian Science Plaza</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.085918,42.343864</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Beacon St / Mass Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.089886,42.350851</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kenmore Sq / Comm Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.097009,42.348706</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Union Square - Somerville</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.095319,42.379637</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boston Medical Center -  East Concord at Harrison Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.073089,42.336437</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Porter Square Station</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.119084,42.387995</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washington St. at Rutland St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.074182,42.338623</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yawkey Way at Boylston St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.097515,42.344706</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dorchester Ave. at Gillette Park</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.057054,42.344023</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lewis Wharf - Atlantic Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.050877,42.363871</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tremont St / W Newton St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.076847,42.341332</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coolidge Corner - Beacon St @ Centre St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.123338,42.341598</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boston Public Library - 700 Boylston St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.077303,42.349673</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Linear Park - Mass. Ave. at Cameron Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.130516,42.397828</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hayes Square at Vine St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.056605,42.377022</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>State Street at Channel Center</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.052608,42.344137</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Longwood Ave / Binney St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1065,42.338629</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Charlestown - Warren St at Chelsea St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.060292,42.371848</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Buswell St. at Park Dr.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.105301,42.347241</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Davis Square</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.123024,42.396969</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lower Cambridgeport at Magazine St/Riverside Rd</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.113687,42.356954</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Columbus Ave. at Mass. Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.081572,42.340799</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Esplanade - Beacon St. at Arlington St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.07278,42.355596</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JFK Crossing at Harvard St. / Thorndike St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.128374,42.346563</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Charles St at Beacon St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.069849,42.356052</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washington Square at Washington St. / Beacon St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.13493,42.339335</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Back Bay / South End Station</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0765701532363,42.3480741231743</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tremont St. at Berkeley St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.069616,42.345392</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mayor Martin J Walsh - 28 State St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.057629,42.35892</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Packard's Corner - Comm. Ave. at Brighton Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.123831,42.352261</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cross St. at Hanover St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.056067,42.362811</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mt Pleasant Ave / Dudley Town Common</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.075354,42.325333</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>359 Broadway - Broadway at Fayette Street</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.104412,42.370803</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Roxbury Crossing Station</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.095171,42.331184</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aquarium Station - 200 Atlantic Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.051601,42.35977</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JFK / UMASS at MBTA Station</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.051122,42.320494</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Inman Square at Vellucci Plaza / Hampshire St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.101427,42.374035</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Station - 700 Atlantic Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.055547,42.352175</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washington St. at Waltham St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.068922,42.341522</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boylston / Mass Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.088088,42.347265</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TD Garden - Causeway at Portal Park #1</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.060515,42.365942</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Central Square at Mass Ave / Essex St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1031,42.36507</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Teele Square at 239 Holland St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.126908,42.402763</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Conway Park - Somerville Avenue</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.107593,42.383405</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BIDMC - Brookline at Burlington St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.100694,42.345733</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Charlestown - Main St at Austin St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.064608,42.375603</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Curtis Hall at South Street</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.11543,42.309054</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Powder House Circle - Nathan Tufts Park</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.116772,42.400877</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Andrew Station - Dorchester Ave at Humboldt Pl</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.057044,42.330716</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newbury St / Hereford St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.085954,42.348717</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spaulding Rehabilitation Hospital - Charlestown Navy Yard</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.048927,42.378338</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Beacon St at Washington / Kirkland</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.105668,42.37842</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wilson Square</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.113341,42.385582</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Danehy Park</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.132788,42.388966</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Broadway at Dorchester St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.045859,42.335693</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ink Block</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.063187,42.345901</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JP Center - Centre Street at Myrtle Street</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.11414,42.313156</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard University Radcliffe Quadrangle at Shepard St / Garden St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.125107,42.380287</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boylston St / Washington St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.062679,42.352409</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Charles Circle - Charles St. at Cambridge St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0708399,42.360835</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seaport Hotel</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.041747,42.348833</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dana Park</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.107437,42.361589</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Somerville Hospital at Highland Ave / Crocker St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.10942,42.39082</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cambridge Main Library at Broadway / Trowbridge St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.111075,42.373379</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boylston at Fairfield</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.082383,42.348762</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard University Housing - 115 Putnam Ave at Peabody Terrace</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.114214,42.366621</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Post Office Square</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.055407,42.356755</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boylston St. at Arlington St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.070627,42.352033</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rowes Wharf - Atlantic Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.050699,42.357143</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alewife Station at Russell Field</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.139459,42.396105</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E. Cottage St at Columbia Rd</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.06198,42.320561</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Magoun Square at Trum Field</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.107818,42.398365</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TD Garden - Causeway at Portal Park #2</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.059914,42.366222</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Boston Library - 646 East Broadway</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.03877,42.335741</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brookline Village - Pearl Street @ MBTA</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.116205,42.332799</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CambridgeSide Galleria - CambridgeSide PL at Land Blvd</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.076472,42.366981</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard Square at Brattle St / Eliot St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.120886,42.373231</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boylston St / Berkeley St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.073644,42.350989</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Northeastern U / North Parking Lot</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.090179,42.341814</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruggles Station / Columbus Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.088496,42.335911</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Summer St at Cutter St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.120406,42.394002</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>EF - North Point Park</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.069957,42.369885</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard University Housing - 111 Western Ave. at Soldiers Field Park</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.119233,42.365064</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Agganis Arena - 925 Comm Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.115639,42.351246</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard University Transportation Services - 175 North Harvard St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.129164,42.363796</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard Real Estate - Brighton Mills - 370 Western Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.13802,42.361667</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Upham's Corner - Ramsey St at Dudley St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.065421,42.317225</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lechmere Station at Cambridge St / First St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.076529,42.370677</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rindge Avenue - O'Neill Library</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.129042,42.392766</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Binney St / Sixth St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.086388,42.366095</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Balance - 20 Guest St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.147782,42.357402</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Congress / Sleeper</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0496,42.3511</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seaport Square - Seaport Blvd. at Boston Wharf</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.043983,42.351205</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brigham Cir / Huntington Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.105221,42.334073</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Faneuil Hall - Union St. at North St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.057452,42.360613</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dudley Square</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.084198,42.328654</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Packard Ave / Powderhouse Blvd</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.123413,42.40449</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MIT Stata Center at Vassar St / Main St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0920526,42.3619622</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Somerville City Hall</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.09812,42.386844</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tremont St / West St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.063348,42.354979</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Balance Store - Boylston at Dartmouth</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.07655,42.350413</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jackson Square T at Centre St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.099533,42.322701</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colleges of the Fenway</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.100812,42.340021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chinatown Gate Plaza - Surface Rd. at Beach St.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.059367,42.351356</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Egleston Square at Columbus Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.098634,42.315692</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Green St T</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.107341,42.310579</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boston Convention/Exhibition Center</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0441,42.3475</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.116865,42.377945</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard Kennedy School at Bennett St / Eliot St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.121473,42.371196</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mass Ave at Newmarket Square</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.066498,42.326599</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B.U. Central - 725 Comm. Ave.</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.108279,42.350406</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ID Building West</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.031614,42.344796</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ID Building East</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.028664,42.344827</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UMass Boston Integrated Sciences Complex</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.041269,42.314507</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Broadway at D Street</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0514432,42.3391085</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wentworth Institute of Technology</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.096391,42.337596</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Franklin Park - Seaver Street at Humbolt Ave</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.092225,42.309796</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ryan Playground - Dorchester Avenue Station</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.056664,42.317642</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lawn on D</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.044024,42.344792</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18 Dorrance Warehouse</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.075978,42.387151</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Franklin Park Zoo</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.085347,42.303469</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edwards Playground - Main Street/Eden Street</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.068607,42.378965</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washington St at Brock St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1604106426239,42.3490049440521</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brighton Center</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1502718925476,42.3489485723559</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Heath St at South Huntington</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1108970642089,42.3279727020596</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bunker Hill Community College</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.0690599679946,42.3740899142652</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lesley University</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.119018793106,42.3867480204505</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MIT Pacific St at Purrington St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1012947559356,42.3595732010904</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mt Auburn</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1332023143768,42.3747862870638</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MIT Vassar St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1039447784423,42.3556012132792</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University Park</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.1000609397888,42.3626477911859</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kendall Street</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.08216792,42.36356016</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Back Bay / South End Station</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.07657015,42.34807412</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lafayette Square at Mass Ave / Main St / Columbia St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.10057324,42.36346469</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvard University River Houses at DeWolfe St / Cowperthwaite St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.11714125,42.36919032</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fan Pier</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.04438901,42.35328743</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washington St at Brock St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.16041064,42.34900494</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brighton Center</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.15027189,42.34894857</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Heath St at South Huntington</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.11089706,42.3279727</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bunker Hill Community College</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.06905997,42.37408991</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MIT Pacific St at Purrington St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.10129476,42.3595732</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University Park</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.10006094,42.36264779</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MIT Vassar St</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.10394478,42.35560121</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lesley University</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.11901879,42.38674802</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mt Auburn</name>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Defaultlayer_Point_">
+						<SimpleData name="Style">SYMBOL(id:ogr-sym-3,c:#4d90feff,s:10.000000px,o:#000000ff);LABEL(f:黑体,s:-1.000000,t:Point#1,c:#ffffffff,w:100.000003)</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.13320231,42.37478629</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
